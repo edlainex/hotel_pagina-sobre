@@ -1,0 +1,20 @@
+$fonte:'Source Sans Pro';
+$fonte_02:'Shadows Into Light';
+$background_01:'../../images/img5.jpg';
+$background_02:'../../images/img22_1.jpg';
+$corPrincipal:#285430;
+$corSecundaria:#5F8D4E;
+$corApoio:#E5D9B6;
+$corBotao:#285430;
+$corBotao_hover:#A4BE7B;
+$corFonte:#000;
+$corFonte2:#ff9307;
+
+
+* {
+    font-family: $fonte;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
