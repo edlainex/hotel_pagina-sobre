@@ -24,7 +24,7 @@
 ## **Links**
 
 > [Mockup](https://www.figma.com/file/xLe34EnFRXKllIEg1Elpry/mockup_hotel_sobre?node-id=0%3A1&t=E8A087FlcVbLeMjd-1)  
-> [Página]()
+> [Página](https://edlainex.github.io/hotel_pagina-sobre/)
 
 ![Site](./images/Foto-Inicial.png)
 
